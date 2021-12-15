@@ -3,7 +3,7 @@ layout: post
 title: Expérience et pauvreté, par Walter Benjamin 1933
 date: 2021-12-15
 tags: general   
-Description: 
+Description: Comment transmettre le passé ? Est-ce possible dans un monde régi par l'information brute et l'immédiateté ?
 ---
 
 Dans nos manuels de lecture figurait la fable du vieil homme qui sur son lit de mort fait croire à ses enfants qu’un trésor est caché dans sa vigne. Ils n’ont qu’à chercher. Les enfants creusent, mais nulle trace de trésor. Quand vient l’automne, cependant, la vigne donne comme aucune autre dans tout le pays. Ils comprennent alors que leur père a voulu leur léguer le fruit de son expérience : la vraie richesse n’est pas dans l’or, mais dans le travail. Ce sont des expériences de ce type qu’on nous a opposées, en guise de menace ou  d’apaisement, tout au long de notre adolescence : « C’est encore morveux et ça veut donner son avis. » « Tu en as encore beaucoup à apprendre. » L’expérience, on savait exactement ce que c’était : toujours les anciens l’avaient apportée aux plus jeunes. Brièvement, avec l’autorité de l’âge, sous forme de proverbes ; longuement, avec sa façon de, sous forme d’histoires ; parfois dans des récits de pays lointains, au coin du feu, devant les enfants et les petits-enfants. – Où tout cela est-il passé ? Trouve-t-on encore des gens capables de raconter une histoire ? Où les mourants prononcent-ils encore des paroles impérissables, qui se transmettent de génération en génération comme un anneau ancestral ? Qui, aujourd’hui, sait dénicher le proverbe qui va le tirer d’embarras ? Qui chercherait à clouer le bec à la jeunesse en invoquant son expérience passée ?
