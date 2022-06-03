@@ -10,10 +10,6 @@ Travaillez rapidement avec Oracle APEX en demandant un espace de travail gratuit
 
 1.  [Allez sur la plateforme dediée](https://apex.oracle.com/fr/learn/getting-started/) 
 
-2. Naviguez vers l'option "Demander un espace de travail" (Voir image)
-<img src="../img/1.JPG"
-     alt="Demander un espace de travail"
-     style="float: left; margin-right: 10px;" />
-     
+2. Naviguez vers l'option "Demander un espace de travail" (Voir image)    
 ![Demander un espace de travail](../img/1.JPG)     
 3. 
