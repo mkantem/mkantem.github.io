@@ -18,6 +18,6 @@ On peut apprendre à connaître oracle avec ses superbes caractéristiques soit 
 4. Validez votre mail (vous recevrez egalement le nom du workspace, le nom d'utilisateur) 
 ![3](https://user-images.githubusercontent.com/17012616/171890358-732137c8-90e6-48b2-8cb1-4b8ae5edd1a3.PNG)
 
-5. Creer un nouveau mot de passe 
+5. Creer un nouveau mot de passe (strong!)
 
 6. That's all, vous êtes prêts à commencer votre apprentissage (et beaucoup plus). Allez dans SQL Workshop/ Commandes SQL/ le navigateur d'object pour quelques tests !!
