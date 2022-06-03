@@ -15,4 +15,5 @@ Travaillez rapidement avec Oracle APEX en demandant un espace de travail gratuit
      alt="Demander un espace de travail"
      style="float: left; margin-right: 10px;" />
      
+![Demander un espace de travail](../img/1.JPG)     
 3. 
