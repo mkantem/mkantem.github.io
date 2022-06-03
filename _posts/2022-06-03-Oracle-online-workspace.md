@@ -5,10 +5,9 @@ date: 2022-06-03
 Description: This post describes a step by step method to create an online workspace for Oracle APEX.
 tag: Oracle Teaching 
 ---
+On peut apprendre à connaître oracle avec ses superbes caractéristiques soit localement, soit par des moyens en ligne. Travaillez rapidement avec Oracle APEX en demandant un espace de travail gratuit hébergé sur apex.oracle.com. L'inscription ne prend que quelques instants et en quelques minutes, votre espace de travail sera prêt et vous pourrez profiter d'Oracle pleinement.
 
-Travaillez rapidement avec Oracle APEX en demandant un espace de travail gratuit hébergé sur apex.oracle.com. L'inscription ne prend que quelques instants et en quelques minutes, votre espace de travail sera prêt et vous pourrez profiter d'Oracle pleinement.
-
-1.  [Allez sur la plateforme dediée](https://apex.oracle.com/fr/learn/getting-started/) 
+1. [Allez sur la plateforme dediée](https://apex.oracle.com/fr/learn/getting-started/) 
 
 2. Naviguez vers l'option "Demander un espace de travail"     
  ![1](https://user-images.githubusercontent.com/17012616/171897881-80e23d94-33cd-4a73-80f0-7d38f5553cd5.PNG)
