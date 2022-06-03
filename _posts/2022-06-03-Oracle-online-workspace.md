@@ -16,7 +16,8 @@ On peut apprendre à connaître oracle avec ses superbes caractéristiques soit 
 
  2. Naviguez vers l'option "Demander un espace de travail"   
   
- ![1](https://user-images.githubusercontent.com/17012616/171897881-80e23d94-33cd-4a73-80f0-7d38f5553cd5.PNG)
+![1](https://user-images.githubusercontent.com/17012616/171912703-67aa34f0-3ca7-4806-9faa-9d354a4a70c0.PNG)
+
 
  3. Remplissez le formulaire, et n'oubliez pas d'indiquer (cocher) que vous avez l'intention de l'utiliser à des fins personnelles
 
