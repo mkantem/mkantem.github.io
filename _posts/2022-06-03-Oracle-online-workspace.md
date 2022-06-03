@@ -3,7 +3,7 @@ layout: post
 title: Creation d'un workspace Oracle (APEX) en ligne!
 date: 2022-06-03
 Description: This post describes a step by step method to create an online workspace for Oracle APEX.
-tag: Oracle Teaching 
+tag: writing 
 ---
 On peut apprendre à connaître oracle avec ses superbes caractéristiques soit localement, soit par des moyens en ligne. Travaillez rapidement avec Oracle APEX en demandant un espace de travail gratuit hébergé sur apex.oracle.com. L'inscription ne prend que quelques instants et en quelques minutes, votre espace de travail sera prêt et vous pourrez profiter d'Oracle pleinement.
 
