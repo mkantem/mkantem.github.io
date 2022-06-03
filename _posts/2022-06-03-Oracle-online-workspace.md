@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Creation d'un workspace Oracle (APEX) en ligne!
+title: Création d'un workspace Oracle (APEX) en ligne!
 date: 2022-06-03
 Description: This post describes a step by step method to create an online workspace for Oracle APEX.
 tag: writing 
