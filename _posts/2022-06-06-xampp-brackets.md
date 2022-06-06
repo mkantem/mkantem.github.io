@@ -40,14 +40,21 @@ Ouvrez Brackets et créez un nouveau fichier (Fichier > Nouveau). Tapez le code 
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My first PHP page</title>
+    <title>Ma première page PHP</title>
 </head>
 <body>
-    <h1>My first PHP page</h1>
-    <?php
-        #Simple hello world page    
+    <h1>Ma première page PHP</h1>
+    <?php   
         echo "Hello World!";
     ?>
 </body>
 </html>
 ```
+
+Enregistrez le fichier sous **hello.php** dans votre dossier **htdocs**
+
+Sous Windows, le dossier htdocs se trouve dans votre répertoire d'installation XAMPP (c'est-à-dire, **C:\xampp**).
+
+Pour exécuter le fichier, ouvrez le panneau de configuration XAMPP et assurez-vous qu'Apache est en cours d'exécution.
+
+Sous Windows, tapez **http://localhost/hello.php** dans la barre d'adresse de votre navigateur. (Remarque : si Apache s'exécute sur un port différent, vous devez également ajouter le numéro de port à l'URL. Par exemple, saisissez **http://localhost:8089/hello.php** si vous utilisez le port 8089...)
