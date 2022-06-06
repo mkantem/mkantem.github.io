@@ -58,3 +58,8 @@ Sous Windows, le dossier htdocs se trouve dans votre répertoire d'installation 
 Pour exécuter le fichier, ouvrez le panneau de configuration XAMPP et assurez-vous qu'Apache est en cours d'exécution.
 
 Sous Windows, tapez **http://localhost/hello.php** dans la barre d'adresse de votre navigateur. (Remarque : si Apache s'exécute sur un port différent, vous devez également ajouter le numéro de port à l'URL. Par exemple, saisissez **http://localhost:8089/hello.php** si vous utilisez le port 8089...)
+
+Vous devriez voir l'output suivant:
+![4](https://user-images.githubusercontent.com/17012616/172157812-af8bb00d-5f5b-49ca-9d2d-350e77a38190.PNG)
+
+
