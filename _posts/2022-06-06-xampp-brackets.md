@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comment installer XAMPP et Brackets
-date: 2022-06-03
+date: 2022-06-06
 Description: This post describes a step by step method to install XAMPP and Brackets.
 tag: writing 
 ---
