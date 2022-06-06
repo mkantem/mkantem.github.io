@@ -37,7 +37,7 @@ Sous Windows, continuez à cliquer sur "Suivant" pour terminer l'installation. U
 
 Ouvrez Brackets et créez un nouveau fichier (Fichier > Nouveau). Tapez le code suivant dans le fichier: 
 
-```php
+```html
 <!DOCTYPE html>
 <html>
 <head>
