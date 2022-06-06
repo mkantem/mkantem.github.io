@@ -10,7 +10,7 @@ tag: writing
 
 Allez sur https://www.apachefriends.org/fr/index.html et cliquez sur **XAMPP pour Windows** 
 
-![1](https://user-images.githubusercontent.com/17012616/172151228-c07ffd5c-443b-4f60-aede-c672800f7763.PNG)
+![1](https://user-images.githubusercontent.com/17012616/172158564-a73ee1fc-5b48-4d38-9520-90e0dbaf0749.PNG)
 
 Attendez que le fichier soit téléchargé. Après le téléchargement, faites un clic droit sur le fichier téléchargé et sélectionnez "Exécuter en tant qu'administrateur". Dans la boîte de dialogue qui apparaît vous demandant de désactiver votre contrôle de compte d'utilisateur, cliquez sur "OK".
 
@@ -22,7 +22,8 @@ Accédez au dossier **C://xampp** et double-cliquez sur le fichier **xampp-contr
 
 Pour démarrer n'importe quel module, cliquez sur le bouton Démarrer(Start) à côté du module. Pour l'arrêter, cliquez sur le bouton Arrêter(Stop). 
 
-![3](https://user-images.githubusercontent.com/17012616/172152530-5ff24234-31d6-4a60-a2ae-b566c3a8a80b.PNG)
+![6](https://user-images.githubusercontent.com/17012616/172158373-cfe2a254-a42d-402e-9875-5088ee81588f.PNG)
+
 
 ## Installation de Brackets 
 
