@@ -31,3 +31,23 @@ Pour installer Brackets, rendez-vous sur http://brackets.io/ et cliquez sur le b
 Une fois téléchargé, double-cliquez sur le fichier téléchargé pour lancer l'installation.
 
 Sous Windows, continuez à cliquer sur "Suivant" pour terminer l'installation. Une fois l'installation terminée, cliquez sur le bouton "Terminer".
+
+### Création et exécution d'un fichier PHP
+
+Ouvrez Brackets et créez un nouveau fichier (Fichier > Nouveau). Tapez le code suivant dans le fichier: 
+
+```php
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My first PHP page</title>
+</head>
+<body>
+    <h1>My first PHP page</h1>
+    <?php
+        #Simple hello world page    
+        echo "Hello World!";
+    ?>
+</body>
+</html>
+```
