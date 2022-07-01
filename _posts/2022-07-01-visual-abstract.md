@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is a Visual Abstracts?
+title: What is a Visual Abstract?
 date: 2022-07-01
 Description: This post introduces the concept of visual/graphical abstracts in scientific publication process.
 tag: writing research
