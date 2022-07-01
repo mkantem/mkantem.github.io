@@ -17,6 +17,8 @@ Simply put, a Visual Abstract is a summary of the key findings of an article, pr
 
 You get the point I hope so, now make that blank page off your screen and let us see your visual abstracts.
 
-# Learn how to produce awesome graphic abstracts
+### Learn how to produce awesome graphic abstracts
 
-![good_visual_abstract_guidance_AFM_002](https://user-images.githubusercontent.com/17012616/176929855-172b57a8-d7f2-487d-a048-ca50288ccf79.png)
+![Capture](https://user-images.githubusercontent.com/17012616/176931768-18987e65-3eb7-4470-8d5c-28b504734475.PNG)
+
+
