@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Concepts de PLS-SEM?
+title: Concepts de base de PLS-SEM?
 date: 2022-12-05
 Description: This post introduces the basic concepts of Structural Equation Modelling.
 tags: statistic writing research
