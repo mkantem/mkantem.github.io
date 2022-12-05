@@ -13,7 +13,7 @@ Ce sont les corrélations bivariées entre un construit et les indicateurs. Ils 
 
 ## Qu'est-ce que la fiabilité des indicateurs ?
 
-Fiabilité de l'indicateur est le carré du coeeficient de corrélation d'un indicateur standardisé. Il représente la part de la variation d'un indicateur expliquée par le construit et est appelé la variance extraite de l'élément. Des coefficients de corrélations supérieures à 0,708 sont recommandées, car elles indiquent que le construit explique plus de 50 % de la variance de l'indicateur, offrant ainsi une fiabilité acceptable de l'indicateur.
+Fiabilité de l'indicateur est le carré du coeficient de corrélation d'un indicateur standardisé. Il représente la part de la variation d'un indicateur expliquée par le construit et est appelé la variance extraite de l'élément. Des coefficients de corrélations supérieures à 0,708 sont recommandées, car elles indiquent que le construit explique plus de 50 % de la variance de l'indicateur, offrant ainsi une fiabilité acceptable de l'indicateur.
 
 ## Le coefficient Beta ?
 
