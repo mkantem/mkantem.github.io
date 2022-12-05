@@ -6,7 +6,7 @@ Description: This post introduces the basic concepts of Structural Equation Mode
 tags: statistic writing research
 ---
 
-Comprendre les concepts de base de la modélisation par équations structurelles est essentiel avant que les chercheurs n'utilisent un logiciel basé sur SEM pour des analyses. Que l'on ait une bonne formation en statistiques ou en mathématiques, il est préférable en tant que chercheur d'appréhender certains fondamentaux. Je consacrerai probablement plus de temps sur les équations structurelles à l'avenir...
+Comprendre les concepts de base de la modélisation par équations structurelles est essentiel avant que les chercheurs n'utilisent un logiciel basé sur SEM pour des analyses. Que l'on ait une bonne formation en statistiques ou en mathématiques, il est préférable en tant que chercheur d'appréhender certains fondamentaux. Pour pouvoir écrire, je consacrerai probablement plus de temps sur les équations structurelles à l'avenir...;)
 
 ## Qu'est-ce que le coefficient de corrélation ?
 Ce sont les corrélations bivariées entre un construit et les indicateurs. Ils déterminent la contribution absolue d'un élément à sa Variable Latente. Les coefficients de corrélations sont d'un intérêt primordial dans l'évaluation des modèles de mesure réflexifs, mais sont également interprétés lorsque des mesures formatives sont impliquées. Ils sont également appelés chargements externes (Outer loadings). La valeur recommandée est de 0,70.
