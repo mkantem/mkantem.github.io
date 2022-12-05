@@ -19,6 +19,6 @@ Fiabilité de l'indicateur est le carré du coeeficient de corrélation d'un ind
 
 Sont des coefficients directionnels estimées dans le modèle structurel (c'est-à-dire entre les construits dans le modèle). Ils correspondent à des Beta standardisés dans une analyse de régression.
 
-Voir Hair Jr, J. F., Hult, G. T. M., Ringle, C. M., Sarstedt, M., Danks, N. P., & Ray, S. (2021). Partial least squares structural equation modeling (PLS-SEM) using R: A (workbook)[https://link.springer.com/book/10.1007/978-3-030-80519-7]
+Voir Hair Jr, J. F., Hult, G. T. M., Ringle, C. M., Sarstedt, M., Danks, N. P., & Ray, S. (2021). Partial least squares structural equation modeling (PLS-SEM) using R: A [workbook](https://link.springer.com/book/10.1007/978-3-030-80519-7)
 
 
