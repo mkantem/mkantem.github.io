@@ -55,6 +55,45 @@ Retour à la page d'accueil de phalcon et allez dans get phalcon
 
 ![8](https://user-images.githubusercontent.com/17012616/224753749-15c45815-ed1d-4f66-847a-fc55deffe419.JPG)
 
+## Installation de Dev-tools
+
+Allez sur https://github.com/phalcon/phalcon-devtools
+
+![12](https://user-images.githubusercontent.com/17012616/224764845-df50ba98-ec6f-4cee-9b04-b52d8cda9e08.JPG)
+
+## Download the repository as a zip file
+
+![13](https://user-images.githubusercontent.com/17012616/224765133-ad119cb8-2343-455c-a0e0-292dd4adbeff.JPG)
+
+## Extraire vers C:\\ et renonmmer le dossier "phalcon" pour plus de flexibilité.
+
+![14](https://user-images.githubusercontent.com/17012616/224766336-f4a467ca-c7b1-48ea-bbba-8b19f55aa75c.JPG)
+
+## Ajoutez php et phalcon dans les variables d'environnements 
+
+Ouvrez les paramètres avancées du système  
+
+![image](https://user-images.githubusercontent.com/17012616/224767663-5073bae5-b39a-4f12-973a-2bdf9f37c335.png)
+
+Dans les variables system, modifiez Path 
+
+![16](https://user-images.githubusercontent.com/17012616/224768030-3d0c8b8f-06e5-4987-9a71-2252a432f2e9.JPG)
+
+![17](https://user-images.githubusercontent.com/17012616/224768577-3ea1b95f-ecd0-42dc-b79c-0085a3ed7f53.JPG)
+
+Enregistrez et re-ouvrir l'invite de commande. 
+
+## Download and install composer 
+
+![18](https://user-images.githubusercontent.com/17012616/224770700-556db207-9ee5-4dfe-b2c6-36e935bb92fa.JPG)
+
+![19](https://user-images.githubusercontent.com/17012616/224770732-18979635-882a-4010-928d-230c5e377e3a.JPG)
+
+![20](https://user-images.githubusercontent.com/17012616/224772937-9c93971b-4d93-48b5-81f2-cc136ca9ea32.JPG)
+
+
+
+
 
 
 
