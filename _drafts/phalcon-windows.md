@@ -32,16 +32,28 @@ Faites défiler vers le bas et sélectionnez la version qui correspond à votre 
 
 ![7](https://user-images.githubusercontent.com/17012616/224752187-677865d8-e4e9-43e3-a5a4-4fc34833c677.JPG)
 
+Extraction de dll vers xampp>php>ext
+
+![9](https://user-images.githubusercontent.com/17012616/224756575-9869c323-8c5c-4d56-8137-b862fb6c56e6.JPG)
+
+Étant donné que Phalcon est faiblement couplé, il expose les fonctionnalités sans avoir besoin d'extensions supplémentaires. Cependant, certains composants s'appuient sur des extensions supplémentaires pour fonctionner. Lorsque vous avez besoin de connectivité et d'accès à la base de données, vous devrez installer l'extension php_pdo. Si votre SGBDR est MySQL/MariaDB ou Aurora, vous aurez également besoin de l'extension php_mysqlnd. De même, l'utilisation d'une base de données PostgreSql avec Phalcon nécessite l'extension php_pgsql. 
+
+Placez "extension=php_phalcon.dll" après les pdo comme sur l'image. Verifiez la correspondance du nom de l'extention avec le dll que vous avez telecharger, cela peut être diffrent de "php_phalcon" ainsi vous changerez en fonction. 
+
+![10](https://user-images.githubusercontent.com/17012616/224758191-0e890ed2-eeb3-40fc-a50b-2036ea43de69.JPG)
+
+## Restart your web server 
+
+Recherchez phalcon dans votre phpinfo(). Si c'est le cas, l'installation est réussie. 
+
+![11](https://user-images.githubusercontent.com/17012616/224759067-780d4773-4b31-4910-918f-a348237fbb5e.JPG)
+
+
 ## Recherchez PSR pour Windows et obtenez la dernière version stable
 
 Retour à la page d'accueil de phalcon et allez dans get phalcon
 
 ![8](https://user-images.githubusercontent.com/17012616/224753749-15c45815-ed1d-4f66-847a-fc55deffe419.JPG)
-
-Extraction de dll vers xampp>php>ext
-
-![9](https://user-images.githubusercontent.com/17012616/224756575-9869c323-8c5c-4d56-8137-b862fb6c56e6.JPG)
-
 
 
 
