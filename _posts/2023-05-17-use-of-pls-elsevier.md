@@ -11,7 +11,7 @@ date: 2023-05-17
 
 <a href="https://www.sciencedirect.com/science/article/pii/S2451958823000246?via%3Dihub"> Find the full article here</a>
 <a href="https://www.sciencedirect.com/science/article/pii/S2451958823000246?via%3Dihub">https://doi.org/10.1016/j.chbr.2023.100291</a>
-<div align="right"> 
+<div align="justify"> 
 Structural equation modelling (SEM) is a statistical technique used in the field of Information Systems amongst others. 
 The technique has been paid attention thanks to its flexibility and predictive power. However, there is a paucity of guidelines
 in the application of the technique in the field of Behavioural Information Security. Hence, this paper aims to provide a 
