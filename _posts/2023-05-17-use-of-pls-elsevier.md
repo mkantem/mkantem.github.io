@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use of partial least squares structural equation modelling (PLS-SEM) in privacy and disclosure research on social network sites: A systematic review
+title: Use of partial least squares structural equation modelling (PLS-SEM) in privacy and disclosure research on social network sites A systematic review
 date: 2023-05-17
 ---
 
