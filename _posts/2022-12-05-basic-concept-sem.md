@@ -6,7 +6,7 @@ Description: This post introduces the basic concepts of Structural Equation Mode
 tags: statistic writing research
 ---
 
-Comprendre les concepts de base de la modélisation par équations structurelles est essentiel avant que les chercheurs n'utilisent un logiciel basé sur SEM pour des analyses. Que l'on ait une bonne formation en statistiques ou en mathématiques, il est préférable en tant que chercheur d'appréhender certains fondamentaux. Je consacrerai probablement plus de temps de redaction sur les équations structurelles à l'avenir...;) [un article](https://www.sciencedirect.com/science/article/pii/S2451958823000246?via%3Dihub){:target="_blank" rel="noopener"}.....(C'est chose fait, l'article est disponible, MAJ - 17 Mai 2023)
+Comprendre les concepts de base de la modélisation par équations structurelles est essentiel avant que les chercheurs n'utilisent un logiciel basé sur SEM pour des analyses. Que l'on ait une bonne formation en statistiques ou en mathématiques, il est préférable en tant que chercheur d'appréhender certains fondamentaux. Je consacrerai probablement plus de temps de redaction sur les équations structurelles à l'avenir...;) [un article](https://www.sciencedirect.com/science/article/pii/S2451958823000246?via%3Dihub){:target="_blank" rel="noopener"}.....(la promesse est une dette, l'article est disponible, MAJ - 17 Mai 2023)
 
 <a href="https://www.sciencedirect.com/science/article/pii/S2451958823000246?via%3Dihub"> Full text ici</a>
 <a href="https://www.sciencedirect.com/science/article/pii/S2451958823000246?via%3Dihub">https://doi.org/10.1016/j.chbr.2023.100291</a>
