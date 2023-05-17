@@ -5,7 +5,7 @@ date: 2022-12-05
 Description: This post introduces the basic concepts of Structural Equation Modelling.
 tags: statistic writing research
 ---
-
+<div align="justify"> 
 Comprendre les concepts de base de la modélisation par équations structurelles est essentiel avant que les chercheurs n'utilisent un logiciel basé sur SEM pour des analyses. Que l'on ait une bonne formation en statistiques ou en mathématiques, il est préférable en tant que chercheur d'appréhender certains fondamentaux. Je consacrerai probablement plus de temps de redaction sur les équations structurelles à l'avenir...;) un article.... 
 
 ## Qu'est-ce que le coefficient de corrélation ?
@@ -18,7 +18,7 @@ Fiabilité de l'indicateur est le carré du coeficient de corrélation d'un indi
 ## Le coefficient Beta ?
 
 Sont des coefficients directionnels estimées dans le modèle structurel (c'est-à-dire entre les construits dans le modèle). Ils correspondent à des Beta standardisés dans une analyse de régression.
-
+<div>
 Voir Hair Jr, J. F., Hult, G. T. M., Ringle, C. M., Sarstedt, M., Danks, N. P., & Ray, S. (2021). Partial least squares structural equation modeling (PLS-SEM) using R: A [workbook](https://link.springer.com/book/10.1007/978-3-030-80519-7)
 
 
