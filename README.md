@@ -1,4 +1,4 @@
-# mkante.ml github Pages
+# mkante.ml github pages
 This repository only serves as a redirect to my personal website mkante.ml using a CNAME file.
 
 ## Index file
